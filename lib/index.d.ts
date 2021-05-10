@@ -1,5 +1,6 @@
 import React from 'react';
-import Quill, { QuillOptionsStatic, DeltaStatic, RangeStatic, BoundsStatic, StringMap, Sources } from 'quill';
+import Quill, { QuillOptionsStatic, RangeStatic, BoundsStatic, StringMap, Sources } from 'quill';
+import DeltaStatic from "quill-delta";
 declare namespace ReactQuill {
     type Value = string | DeltaStatic;
     type Range = RangeStatic | null;
