@@ -45,7 +45,7 @@
   "dependencies": {
     "@types/quill": "^2.0.6",
     "lodash": "^4.17.4",
-    "quill": "https://github.com/Scholar-6/quill/tarball/master"
+    "quill": "https://github.com/khanetw/quill/tarball/master"
   },
   "peerDependencies": {
     "react": "^16.0.0",
